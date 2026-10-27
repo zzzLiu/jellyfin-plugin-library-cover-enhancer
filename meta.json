@@ -1,0 +1,12 @@
+{
+  "guid": "8b3d6f12-9c44-4e2b-b8c1-7a5f2e143990",
+  "name": "Jellyfin Library Cover Enhancer",
+  "version": "1.1.4.0",
+  "description": "Rebuilds library collage covers with adjustable title layout, a bottom gradient, and a choice of fonts. Item posters and metadata are left unchanged.",
+  "overview": "Library collage covers with adjustable titles and fonts.",
+  "owner": "zzzLiu",
+  "category": "General",
+  "targetAbi": "12.2.0.0",
+  "timestamp": "2026-10-17T00:00:00Z",
+  "changelog": "The preview canvas stays cover-sized and centered. Hide text, text, and font sections match the rebuild block width."
+}
