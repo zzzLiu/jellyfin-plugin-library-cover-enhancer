@@ -8,6 +8,12 @@ Movie, episode, and other **item** posters and metadata are left unchanged.
 
 Chinese UI name: **Jellyfin 媒体库封面增强**.
 
+## Screenshots
+
+![My Media showing Movies and Series library cards with title overlays on the collage covers](docs/screenshots/cover-enhancer-movies.png)
+
+My Media: Movies and Series library cards, with title overlays on the collage covers.
+
 ## Compatibility
 
 - Jellyfin **12.2** (including nyanmisaka builds that report ABI `12.2.0.0`)
@@ -53,10 +59,6 @@ The configuration page is English. It switches to Simplified Chinese when the si
 ## Font
 
 `font.ttf` is MiSans. Confirm that font’s license yourself before you redistribute the file. This project does not state or grant a font license.
-
-## Screenshots
-
-Optional: put images under `docs/screenshots/` (home collage, settings preview, before/after).
 
 ## Support
 
