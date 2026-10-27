@@ -10,6 +10,12 @@
 
 英文名：Jellyfin Library Cover Enhancer。
 
+## 效果图
+
+![我的媒体中的电影与剧集媒体库卡片，拼图封面上带标题文字](docs/screenshots/cover-enhancer-movies.png)
+
+我的媒体：电影和剧集两张媒体库卡片，拼图封面上带标题文字。
+
 ## 兼容性
 
 - Jellyfin **12.2**（含上报 ABI `12.2.0.0` 的 nyanmisaka 构建）
