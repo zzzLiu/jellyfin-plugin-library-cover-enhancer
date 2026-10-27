@@ -1,8 +1,12 @@
+[English](README.md)
+
 # Jellyfin 媒体库封面增强
 
-重建 Jellyfin **媒体库**拼图封面。可调标题字号、位置、粗细和底部渐变。字体可用系统匹配、插件自带的 MiSans，或你指定的 `.ttf` / `.otf`。
+这个插件用来重新生成 Jellyfin 首页上的**媒体库**拼图封面，并自定义封面上的文字和样式。
 
-不会改影片、剧集等**条目**的海报和刮削数据。
+可以调整标题的字号、位置、粗细，以及底部渐变。字体可以使用 Jellyfin 的系统匹配、插件自带的 MiSans，或你指定的 `.ttf` / `.otf` 文件。
+
+影片、剧集和其他**条目**的海报与刮削数据保持不变。
 
 英文名：Jellyfin Library Cover Enhancer。
 
@@ -51,6 +55,16 @@ zip 根目录需包含：
 ## 字体
 
 `font.ttf` 是 MiSans。再分发前请自行确认字体许可。本项目不声明、也不授予字体许可。
+
+## 支持 / 捐赠
+
+如果这个插件对你有帮助，可以在 [Ko-fi](https://ko-fi.com/zzzliu) 请我喝杯咖啡：
+
+[![Buy me a coffee](docs/donate/ko-fi-button.png)](https://ko-fi.com/zzzliu)
+
+国内用户可以扫描下方微信赞赏码：
+
+<img src="docs/donate/wechat-appreciate.jpg" alt="微信赞赏码" width="220" />
 
 ## 许可证
 

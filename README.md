@@ -1,3 +1,5 @@
+[中文说明](README.zh-CN.md)
+
 # Jellyfin Library Cover Enhancer
 
 Rebuilds Jellyfin **library** collage covers. Adjust title size, placement, weight, and a bottom gradient. Fonts can come from Jellyfin’s system matching, the bundled MiSans file, or a `.ttf` / `.otf` path you choose.
@@ -55,6 +57,16 @@ The configuration page is English. It switches to Simplified Chinese when the si
 ## Screenshots
 
 Optional: put images under `docs/screenshots/` (home collage, settings preview, before/after).
+
+## Support
+
+If this plugin is useful, you can buy me a coffee on [Ko-fi](https://ko-fi.com/zzzliu):
+
+[![Buy me a coffee](docs/donate/ko-fi-button.png)](https://ko-fi.com/zzzliu)
+
+Users in China can scan the WeChat Appreciate (赞赏) QR code:
+
+<img src="docs/donate/wechat-appreciate.jpg" alt="WeChat Appreciate QR code" width="220" />
 
 ## License
 
